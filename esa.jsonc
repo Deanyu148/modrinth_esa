@@ -1,8 +1,5 @@
-{
+﻿{
   "assets": {
     "directory": "public"
-  },
-  "function": {
-    "entry": "index.js"
   }
 }
